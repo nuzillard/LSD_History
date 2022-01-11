@@ -1,2 +1,2 @@
 # LSD_History
- Old distribution files for LSD software
+ Old distribution files of the LSD software
